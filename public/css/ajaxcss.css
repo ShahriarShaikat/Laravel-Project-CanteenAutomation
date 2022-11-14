@@ -1,0 +1,10 @@
+.messagebox{
+  width: 100%;
+  display: none;
+  position: absolute !important;
+  top: 2px;
+}
+.clearfix{
+  position: relative;
+  margin-top: 20px;
+}
